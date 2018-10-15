@@ -1,0 +1,20 @@
+button {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+
+    &#btn-random {
+        background-color: $blueviolet;
+        color: $white;
+    }
+    
+    &#btn-toggle-show {
+        background-color: $brown;
+        color: $white;
+    }
+}
+
+#output {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    padding: 20px;
+}
